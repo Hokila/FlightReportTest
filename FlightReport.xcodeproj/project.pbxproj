@@ -56,7 +56,6 @@
 		FD9DA6C223FE6C1200E59208 /* FlightReportTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightReportTestUITests.swift; sourceTree = "<group>"; };
 		FD9DA6C423FE6C1200E59208 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FD9DA6DD23FE6C7600E59208 /* FlightReport UAT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FlightReport UAT.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FD9DA6DE23FE6C7600E59208 /* FlightReport copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "FlightReport copy-Info.plist"; path = "/Users/1907651/Desktop/FlightReportTest/FlightReport copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +97,6 @@
 				FD9DA6B623FE6C1200E59208 /* FlightReportTestTests */,
 				FD9DA6C123FE6C1200E59208 /* FlightReportTestUITests */,
 				FD9DA69E23FE6C1000E59208 /* Products */,
-				FD9DA6DE23FE6C7600E59208 /* FlightReport copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
